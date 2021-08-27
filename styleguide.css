@@ -1,0 +1,42 @@
+:root { 
+  --caribbean-green-pearl: #7bed8d;
+  --snowy-mint: #d0fcd77c;
+  --star-dust: #9f9f9f;
+  --white: #ffffff;
+ 
+  --font-size-s: 14px;
+  --font-size-xl: 25px;
+  --font-size-xs: 13px;
+  --font-size-xxl: 28px;
+  --font-size-xxl2: 15px;
+  --font-size-xxxxxl: 20px;
+ 
+  --font-family-acuminpro_semicondensed-bold: "AcuminPro SemiCondensed-Bold", Helvetica;
+  --font-family-arial-regular: "Arial-Regular", Helvetica;
+  --font-family-helveticaneue-regular: "HelveticaNeue-Regular", Helvetica;
+  --font-family-quicksand: "Quicksand", Helvetica;
+  --font-family-roboto: "Roboto", Helvetica;
+}
+.helveticaneue-regular-normal-star-dust-15px {
+  color: var(--star-dust);
+  font-family: var(--font-family-helveticaneue-regular);
+  font-size: var(--font-size-xxl2);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.helveticaneue-regular-normal-star-dust-20px {
+  color: var(--star-dust);
+  font-family: var(--font-family-helveticaneue-regular);
+  font-size: var(--font-size-xxxxxl);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.roboto-normal-white-13px {
+  color: var(--white);
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-xs);
+  font-style: normal;
+  font-weight: 400;
+}

@@ -1,0 +1,37 @@
+.group-3282 {
+  align-items: center;
+  background-color: var(--white);
+  border-radius: 30px;
+  box-shadow: 0px 15px 30px #00000029;
+  display: flex;
+  height: 83px;
+  margin-right: 1.0px;
+  margin-top: 60px;
+  min-width: 309px;
+  padding: 0 30px;
+}
+
+.rectangle-2323-2 {
+  height: 55px;
+  object-fit: cover;
+  width: 65px;
+}
+
+.flex-col {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  margin-left: 20px;
+  min-height: 55px;
+  position: relative;
+  width: 164px;
+}
+
+.place {
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-left: 3.0px;
+  min-height: 25px;
+  width: 75px;
+}
+

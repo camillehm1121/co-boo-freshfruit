@@ -1,0 +1,40 @@
+.fresh-fruit {
+  align-items: center;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  height: 3428px;
+  position: relative;
+  width: 414px;
+}
+
+.overlap-group17 {
+  height: 3178px;
+  position: relative;
+  width: 414px;
+}
+
+.overlap-group {
+  height: 3178px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 414px;
+}
+
+.group-2639 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 414px;
+}
+
+.overlap-group1 {
+  height: 135px;
+  position: relative;
+  width: 414px;
+}
+

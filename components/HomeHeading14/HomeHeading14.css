@@ -1,0 +1,28 @@
+.home-heading {
+  align-items: flex-start;
+  display: flex;
+  height: 94px;
+  left: 0;
+  position: absolute;
+  top: 0;
+}
+
+.overlap-group2 {
+  height: 94px;
+  position: relative;
+  width: 414px;
+}
+
+.todays-feed {
+  color: var(--white);
+  font-family: var(--font-family-arial-regular);
+  font-size: var(--font-size-xl);
+  left: 133px;
+  letter-spacing: 0;
+  line-height: 25px;
+  position: absolute;
+  text-align: center;
+  top: 44px;
+  white-space: nowrap;
+}
+

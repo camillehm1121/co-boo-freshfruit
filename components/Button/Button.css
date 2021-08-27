@@ -1,0 +1,28 @@
+.button {
+  align-items: center;
+  background-color: var(--caribbean-green-pearl);
+  border-radius: 36px;
+  display: flex;
+  height: 60px;
+  justify-content: flex-end;
+  margin-left: 1.0px;
+  margin-top: 75px;
+  min-width: 315px;
+  padding: 20px 107px;
+  position: relative;
+}
+
+.continue {
+  align-self: flex-end;
+  color: var(--white);
+  font-family: var(--font-family-acuminpro_semicondensed-bold);
+  font-size: var(--font-size-s);
+  font-weight: 700;
+  letter-spacing: -0.14px;
+  line-height: 14px;
+  margin-left: 10px;
+  min-height: 16px;
+  min-width: 74px;
+  white-space: nowrap;
+}
+
